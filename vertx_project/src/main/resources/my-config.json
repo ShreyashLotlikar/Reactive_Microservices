@@ -1,5 +1,5 @@
 {
   "message": "hello",
   "port": 8080,
-  "instances": 5
+  "instances": 1
 }
